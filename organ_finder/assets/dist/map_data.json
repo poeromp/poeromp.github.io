@@ -144,6 +144,13 @@
       "3": "Liver",
       "4": "Brain"
     },
+    "organToTableColumn": {
+      "0": "7",
+      "1": "9",
+      "2": "5",
+      "3": "6",
+      "4": "8"
+    },
     "regions": {
       "0": "Haewark Hamlet",
       "1": "Tirn's End",
