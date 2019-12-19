@@ -46,36 +46,28 @@
 
                     <p class="spacer"></p>
 
-                    <h5>2) Select maximum number of dropped organs</h5>
-                    <h6>If the tool does not find any maps with this limit, it will add 1 to the limit until at least one map has been found.</h6>
-                    <p class="spacer"></p>
-                    <div>
-                        <label for="maps-by-organs-limiter">Organ limit: <span id="maps-by-organs-limiter-count">1</span></label>
-                        <input type="range" class="custom-range" min="1" max="5" value="1" id="maps-by-organs-limiter">
-                    </div>
-
-                    <p class="spacer"></p>
-
-                    <h5>3) Find maps you want to run</h5>
+                    <h5>2) Find maps you want to run</h5>
                     <h6>You can sort by clicking on the table headings and you can search by any value in the table.</h6>
 
                     <p class="spacer"></p>
 
-                    <table id="maps-by-organs-table" class="datatable">
-                        <thead>
-                        <th>Map</th>
-                        <th>Region</th>
-                        <th>Tiers</th>
-                        <th>#</th>
-                        <th>Organs</th>
+                    <div id="maps-by-organs-table-holder">
+                        <table id="maps-by-organs-table" class="datatable">
+                            <thead>
+                            <th>Map</th>
+                            <th>Region</th>
+                            <th>Tiers</th>
+                            <th>#</th>
+                            <th>Organs</th>
 
-                        <th>Probability Eye</th>
-                        <th>Probability Liver</th>
-                        <th>Probability Heart</th>
-                        <th>Probability Brain</th>
-                        <th>Probability Lung</th>
-                        </thead>
-                    </table>
+                            <th>Probability Eye</th>
+                            <th>Probability Liver</th>
+                            <th>Probability Heart</th>
+                            <th>Probability Brain</th>
+                            <th>Probability Lung</th>
+                            </thead>
+                        </table>
+                    </div>
 
                     <p class="spacer"></p>
 
@@ -95,7 +87,7 @@
 
                     <p class="spacer"></p>
 
-                    <h5>4) Run the listed maps</h5>
+                    <h5>3) Run the listed maps</h5>
                     <h6>By choosing a <bold>single</bold> unique organ inside of a map to create the Metamorph encounter, you are guaranteed to get an organ that matches this type.
                     Choosing multiple unique organs will drop one of those <bold>randomly</bold>.</h6>
                 </div>
@@ -163,7 +155,7 @@
                 <br>
             </p>
             <p class="text-center">
-                Made by <a href="https://www.pathofexile.com/account/view-profile/Rompp">Romp</a>. Last updated December 19, 2019.
+                Made by <a href="https://www.pathofexile.com/account/view-profile/Rompp">Romp</a>. Last updated December 20, 2019.
             </p>
         </div>
 

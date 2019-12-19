@@ -1,6 +1,14 @@
 #Changelog
 All notable changes to this tool will be documented in this file
 
+## [1.0.3] - 20.12.2019
+### Added
+- added fullscreen functionality to map table
+- added highlighting of chosen organ in table
+
+### Removed
+- removed the maximum organ drop count slider as it's replaced by drop probabilities
+
 ## [1.0.2] - 19.12.2019
 ### Added - data provided by /u/Maciva
 - added organ drop probability to "maps by organ" function

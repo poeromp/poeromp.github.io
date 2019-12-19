@@ -1,0 +1,7 @@
+./organ_finder/mix-manifest.json
+./organ_finder/.idea
+./organ_finder/package.json
+./organ_finder/package-lock.json
+./organ_finder/webpack.mix.js
+./organ_finder/assets/src
+./organ_finder/node_modules
