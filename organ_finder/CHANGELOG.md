@@ -1,6 +1,10 @@
 #Changelog
 All notable changes to this tool will be documented in this file
 
+## [1.0.4] - 20.12.2019
+### Changed
+- replaced organ dropdown with simple clickable list to save some clicks
+
 ## [1.0.3] - 20.12.2019
 ### Added
 - added fullscreen functionality to map table
