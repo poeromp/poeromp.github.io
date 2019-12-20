@@ -1,6 +1,10 @@
 #Changelog
 All notable changes to this tool will be documented in this file
 
+## [1.0.5] - 20.12.2019
+### Added
+- added hint to patch 3.9.1 making this tool obsolete, leaving it up for reference
+
 ## [1.0.4] - 20.12.2019
 ### Changed
 - replaced organ dropdown with simple clickable list to save some clicks
